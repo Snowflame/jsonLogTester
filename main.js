@@ -11,13 +11,13 @@ fs.readFile('log.json', 'utf8', function (err,data) {
 
   // instantiate
   var table_search = new Table({
-      head: ['Hits', 'URL']
+      head: ['URL', 'Hits']
   });
 
   var regex_social = RegExp('^.*https://t.co*.*$');
   // instantiate
   var table_social = new Table({
-      head: ['Hits', 'URL']
+      head: ['URL', 'Hits']
   });
 
   function analyse(regex, table){
