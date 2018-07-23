@@ -1,0 +1,22 @@
+{
+  "name": "jsonlogtester",
+  "version": "1.0.0",
+  "description": "Simple Script to check Referrer in Logfile. Json File is hardcoded... muhahahah 2nd Line @main.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflame/jsonLogTester.git"
+  },
+  "author": "Marc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snowflame/jsonLogTester/issues"
+  },
+  "homepage": "https://github.com/Snowflame/jsonLogTester#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1"
+  }
+}
