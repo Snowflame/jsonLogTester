@@ -2,6 +2,8 @@
 
 Simple Script to check Referrer in Logfile. Json File is hardcoded... muhahahah 2nd Line @main.js.
 
+![jsonLogTester](https://raw.githubusercontent.com/Snowflame/jsonLogTester/master/screenshot.png "jsonLogTester")
+
 # requirement
 - Python (windows: https://www.python.org/downloads/windows/)
 - Node (https://nodejs.org/en/)
