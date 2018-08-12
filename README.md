@@ -1,6 +1,6 @@
 # jsonLogTester
 
-Simple Script to check Referrer in Logfile. Json File is hardcoded... muhahahah 2nd Line @main.js.
+Simple Script to check Referrer in Logfile.
 
 # requirement
 - Node (https://nodejs.org/en/)
