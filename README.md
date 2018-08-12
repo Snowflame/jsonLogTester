@@ -9,7 +9,8 @@ Simple Script to check Referrer in Logfile.
 - npm install
 
 # start
-1. npm start
+1. save Logfiles in log folder
+2. npm start
 
 # Version
 Alpha 0.1
