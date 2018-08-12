@@ -4,6 +4,7 @@
   "description": "Simple Script to check Referrer in Logfile. Json File is hardcoded... muhahahah 2nd Line @main.js.",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,9 @@
   },
   "homepage": "https://github.com/Snowflame/jsonLogTester#readme",
   "dependencies": {
-    "cli-table3": "^0.5.1"
+    "cli-table3": "^0.5.1",
+    "crawler-user-agents": "git+https://github.com/monperrus/crawler-user-agents.git",
+    "express": "^4.16.3",
+    "table-builder": "^2.1.1"
   }
 }
